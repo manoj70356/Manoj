@@ -8,6 +8,13 @@ Currently, I am working at **MountCode Technologies**, where I am actively invol
 
 ---
 
+## 📄 Resume
+
+[![Download CV](https://img.shields.io/badge/Download-CV-black?style=for-the-badge)](/download)
+
+---
+
+
 ## 🧠 Skills & Technologies
 
 ### 🔹 Programming & Backend
