@@ -1,5 +1,4 @@
-<a href="MANOJ_SINGH.pdf" class="resume-btn" target="_blank">Download CV</a>
-
+[![Download CV](https://img.shields.io/badge/Download-CV-black?style=for-the-badge)](MANOJ SINGH.pdf)
 <style>
 .resume-btn {
   position: fixed;
