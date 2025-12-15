@@ -9,7 +9,8 @@ Currently, I am working at **MountCode Technologies**, where I am actively invol
 ---
 
 ## 📄 Resume
-[![Download CV](Manoj_Singh_CV.pdf)]
+[![Download CV](https://img.shields.io/badge/Download-CV-black?style=for-the-badge)](Manoj_Singh_CV.pdf)
+
 
 ---
 
