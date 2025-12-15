@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="MANOJ_SINGH.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-black?style=for-the-badge" />
+  </a>
+</div>
+
 # 👋 Hi, I'm Manoj Singh                                                        
 
 🚀 **Backend Developer | Data Scientist | Machine Learning Engineer**
