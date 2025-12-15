@@ -1,21 +1,8 @@
-[![Download CV](https://img.shields.io/badge/Download-CV-black?style=for-the-badge)](MANOJ SINGH.pdf)
-<style>
-.resume-btn {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  background: black;
-  color: white;
-  padding: 10px 16px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: bold;
-  z-index: 1000;
-}
-.resume-btn:hover {
-  background: #333;
-}
-</style>
+<div align="right">
+  <a href="MANOJ SINGH.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-black?style=for-the-badge" />
+  </a>
+</div>
 
 # 👋 Hi, I'm Manoj Singh                                                        
 
