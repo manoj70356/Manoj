@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Manoj Singh                                                           ## 📄 Resume [![Download CV](https://img.shields.io/badge/Download-CV-black?style=for-the-badge)](MANOJ SINGH.pdf)
-
+# 👋 Hi, I'm Manoj Singh                                                        
 
 🚀 **Backend Developer | Data Scientist | Machine Learning Engineer**
 
