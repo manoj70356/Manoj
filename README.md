@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="MANOJ SINGH.pdf" target="_blank">
+  <a href="MANOJ_SINGH.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-black?style=for-the-badge" />
   </a>
 </div>
